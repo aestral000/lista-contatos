@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Lista de contatos</string>
+    <string name="placeholder_username">Usuário</string>
+    <string name="placeholder_nickname">Apelido</string>
+    <string name="placeholder_name">Nome</string>
+    <string name="placeholder_phone_number">Telefone</string>
+    <string name="placeholder_password">Senha</string>
+    <string name="placeholder_confirm_password">Confirme a senha</string>
+    <string name="button_login">Login</string>
+    <string name="button_new_user">Novo usuário</string>
+    <string name="button_save">Salvar</string>
+    <string name="button_call">Ligar</string>
+    <string name="button_new_contact">Novo contato</string>
+</resources>
